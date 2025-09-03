@@ -1,0 +1,81 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+    color: white;
+    margin: 0;
+}
+
+header {
+ padding: 10px;
+}
+
+.button {
+  background-color: crimson;
+  color: black;
+  border-radius: 10px;
+  text-decoration: none;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+}
+
+nav a{
+  background-color: brown;
+  color: black;
+  border-radius: 10px;
+  text-decoration: none;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+}
+
+.nav-link {
+    text-decoration: none;
+}
+
+h1 {
+color: aqua;
+}
+
+p {
+    font-size: 20px;
+    color: blue;
+}
+
+.info {
+   
+}
+
+article {
+   
+}
+
+.article-but {
+    background-color: blueviolet;
+  color: black;
+  border-radius: 10px;
+  text-decoration: none;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+}
+
+footer {
+   
+}
+
+footer a {
+    
+}
+
+footer p {
+    color: bisque;
+}
+.h2poli {
+   text-align: center;
+   color: aquamarine;
+}
+img {
+  display: block;
+  margin:  0 auto;
+}
